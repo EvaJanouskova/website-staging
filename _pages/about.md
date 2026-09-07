@@ -30,7 +30,3 @@ A complex individual-based health system simulation framework for low- and middl
 [Zenodo (DOI: 10.5281/zenodo.10144015)](https://doi.org/10.5281/zenodo.10144015) | [GitHub Repository](https://github.com/UCL/TLOmodel)
 
 <!-- TODO: Add Rabies model & Schistox repos -->
-
----
-
-[LinkedIn](https://www.linkedin.com/in/evajmathmodel/) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=kA0PlWYAAAAJ) | [GitHub](https://github.com/EvaJanouskova) | [ResearchGate](https://www.researchgate.net/profile/Eva-Janouskova) | [ORCID](https://orcid.org/0000-0002-4104-0119) | [ResearcherID](https://publons.com/researcher/4054043/eva-janouskova/)
