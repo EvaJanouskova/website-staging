@@ -13,8 +13,8 @@ title: "Eva Janoušková"
 title_separator: "-"
 name: &name "Eva Janoušková"
 description: &description "Health Systems Modeller | Epidemiologist | Data Scientist"
-url                      : https://evajanouskova.github.io/
-baseurl                  : "/website-staging" #TODO: remove once finished published as the main website
+# url                      : https://evajanouskova.github.io/
+# baseurl                  : "/website-staging" #TODO: remove once finished published as the main website
 repository               : "evajanouskova/evajanouskova.github.io"
 
 # Side Bar Author Profile
