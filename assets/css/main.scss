@@ -37,3 +37,13 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* Keep author profile links visible on mobile */
+.author__urls {
+  display: block !important;
+}
+
+/* Hide the toggle button since links are always expanded */
+.author__urls-wrapper button {
+  display: none !important;
+}
